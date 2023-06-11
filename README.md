@@ -15,3 +15,7 @@ SETTING UP BATTLE-TANK:
 BELOW WE HAVE THE FOLLOWING SCREENSHOTS OF BATTLE TANK GAME:
 --
 ![Screenshot (1)](https://github.com/Tejasramcharan/BATTLE-TANK/assets/132668791/73d03d9b-a7d3-456a-be8e-cc27309d8e26)
+![Screenshot (5)](https://github.com/Tejasramcharan/BATTLE-TANK/assets/132668791/0f24e2fc-8858-454a-b57d-ec4246ced49e)
+![Screenshot (2)](https://github.com/Tejasramcharan/BATTLE-TANK/assets/132668791/1dfb58a9-5054-415d-ac70-e79a182e93b6)
+![Screenshot (3)](https://github.com/Tejasramcharan/BATTLE-TANK/assets/132668791/bb6df4fb-5e2d-421f-bff8-1061f45ffe52)
+![Screenshot (4)](https://github.com/Tejasramcharan/BATTLE-TANK/assets/132668791/a982246b-da95-4f55-a905-36bd329f8cfb)
